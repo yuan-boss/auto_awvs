@@ -18,7 +18,11 @@
 
 ## 使用帮助
 
+### 直接下载exe
 
+前往release直接下载即可双击使用
+
+### 源码启动
 
 1. 启动工具
 
@@ -38,7 +42,7 @@
 
 
 
-![image-20230917134345972](C:\Users\yuan\AppData\Roaming\Typora\typora-user-images\image-20230917134345972.png)
+![image-20230917134345972](https://gitee.com/yuan_boss/yuanboss-pic-bed/raw/master/img2/image-20230917134345972.png)
 
 
 
